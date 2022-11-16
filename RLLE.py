@@ -1,4 +1,7 @@
-# Author: Isidora Jankov
+__author__ = "Isidora Jankov"
+__maintainer__ = "Isidora Jankov"
+__contact__ = "isidora_jankov@matf.bg.ac.rs"
+__license__ = "MIT License"
 
 import time
 import numpy as np
