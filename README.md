@@ -6,4 +6,4 @@ This notebook explores if classification accuracy of Support Vector Machine and 
 
 The AGN Data Challenge is aimed to "motivate planning for AGN science with the Rubin Observatory Legacy Survey of Space and Time (LSST)". The dataset released in this data challenge contains 440,000 astronomical objects pulled from different sources (public archives) and put together to mimic the future LSST data release catalogs as much as possible.
 
-Notebooks describing the full contribution of our team will soon be available on the LSST AGN Data Challenge [repository](https://github.com/RichardsGroup/AGN_DataChallenge).
+Notebooks describing the full contribution of our team are available on LSST AGN Data Challenge [repository](https://github.com/RichardsGroup/AGN_DataChallenge/tree/main/submissions/SER-SAG).
