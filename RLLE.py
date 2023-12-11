@@ -1,6 +1,6 @@
 __author__ = "Isidora Jankov"
 __maintainer__ = "Isidora Jankov"
-__contact__ = "isidora_jankov@matf.bg.ac.rs"
+__contact__ = "ijankov@proton.me"
 __license__ = "MIT License"
 
 import time
